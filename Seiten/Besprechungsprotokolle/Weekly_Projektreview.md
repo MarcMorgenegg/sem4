@@ -16,10 +16,10 @@ Das wöchentliche Projektreview findet jeweils zwischen Marc Morgenegg und dem C
 Erkenntnisse aus dem Weekly werden bei Bedarf in Azure DevOps oder in der Projektdokumentation nachgeführt.
 
 ## Wöchentlicher Projektreview **KW 45**
-- Datum: 
-> 1. 
-> 2. 
-> 3. 
+- Datum: 03.11.2026
+> 1. Projektmanagement begonnen, US 01 erledigt, als nächstes fahre ich mit Projektmanagement Themen fort, SEUSAG, Risiko Matrix, SMART Analyse usw.
+> 2. Basis Lizenzen in Azure Devops werden in Absprache mit 2 Mitarbeitern, die aktuell nicht viel in Azure DevOps machen entzogen, und den zwei Dozenten zugewiesen, damit diese einsicht in das Repo in Azure DevOps erhalten.
+> 3. Als nächstes arbeite ich an US02, 03 und 04 weiter, es müssen aktuell keine Prioritäten oder Abhängigkeiten angepasst werden. 
 
 ## Wöchentlicher Projektreview **KW 46**
 - Datum: 
