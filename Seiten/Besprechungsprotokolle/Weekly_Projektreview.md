@@ -23,9 +23,11 @@ Erkenntnisse aus dem Weekly werden bei Bedarf in Azure DevOps oder in der Projek
 
 ## Wöchentlicher Projektreview **KW 46**
 - Datum: 
-> 1. 
-> 2. 
-> 3. 
+> 1. US02, US03 und US04 abgeschlossen, US05 in Review -> Beinhalten weitere Projektmanagement Themen wie SEUSAG, Roadmap, Risikomanagement, Arbeitszeit einschätzung IST- / SOLL.
+> 2. Aktuell keine bekannt
+> 3. US06 steht als nächstes an, ist vom Aufwand her eher gering, daher wird bestimmt mindestens eine weitere US diese Woche noch abgeschlossen.
+> > 4. **Weitere Notizen:** CTO über aktuellen Schritt und neuen Inhalt der Semesterarbeit seit dem letzten Weekly schriftlich kommuniziert, da er zum Thema Projektmanagement nicht gross involviert ist. Zudem habe ich das GitHub Repo öffentlich gemacht, da dieses aktuell keine vertraulichen Daten beinhaltet.
+
 
 ## Wöchentlicher Projektreview **KW 47**
 - Datum: 
