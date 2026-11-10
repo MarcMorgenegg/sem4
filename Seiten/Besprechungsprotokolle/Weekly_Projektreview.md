@@ -22,7 +22,7 @@ Erkenntnisse aus dem Weekly werden bei Bedarf in Azure DevOps oder in der Projek
 > 3. Als nächstes arbeite ich an US02, 03 und 04 weiter, es müssen aktuell keine Prioritäten oder Abhängigkeiten angepasst werden. 
 
 ## Wöchentlicher Projektreview **KW 46**
-- Datum: 
+- Datum: 10.11.2026
 > 1. US02, US03 und US04 abgeschlossen, US05 in Review -> Beinhalten weitere Projektmanagement Themen wie SEUSAG, Roadmap, Risikomanagement, Arbeitszeit einschätzung IST- / SOLL.
 > 2. Aktuell keine bekannt
 > 3. US06 steht als nächstes an, ist vom Aufwand her eher gering, daher wird bestimmt mindestens eine weitere US diese Woche noch abgeschlossen.
