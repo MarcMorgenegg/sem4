@@ -30,7 +30,7 @@ Erkenntnisse aus dem Weekly werden bei Bedarf in Azure DevOps oder in der Projek
 
 
 ## Wöchentlicher Projektreview **KW 47**
-- Datum: 
+- Datum: 17.11.2026
 > 1. 
 > 2. 
 > 3. 
